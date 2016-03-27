@@ -1,6 +1,7 @@
-jupyter notebook, some sorting algorithms, cjzpyjn_sorting.ipynb
+## jupyter notebook, some sorting algorithms, cjzpyjn_sorting.ipynb
 
-- Quick setup — if you’ve done this kind of thing before
+## Github guide
+### Quick setup — if you’ve done this kind of thing before
 or
 
 We recommend every repository include a README, LICENSE, and .gitignore.
@@ -24,7 +25,7 @@ git push -u origin master
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-- Remove a repository
+### Remove a repository
 
 On GitHub, navigate to the main page of the repository.
 

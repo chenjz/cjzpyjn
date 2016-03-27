@@ -1,4 +1,4 @@
-## jupyter notebook, some sorting algorithms, cjzpyjn_sorting.ipynb
+## jupyter notebook, some sorting algorithms
 
 ## Github guide
 ### Quick setup — if you’ve done this kind of thing before
@@ -8,12 +8,12 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
 
-echo "# cjzpyjn_sorting" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/chenjz/cjzpyjn_sorting.git
-git push -u origin master
+##### echo "# cjzpyjn_sorting" >> README.md
+##### git init
+##### git add README.md
+##### git commit -m "first commit"
+##### git remote add origin https://github.com/chenjz/cjzpyjn_sorting.git
+##### git push -u origin master
 
 …or push an existing repository from the command line
 

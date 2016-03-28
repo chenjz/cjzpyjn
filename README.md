@@ -1,4 +1,5 @@
-## jupyter notebook, some sorting algorithms
+## jupyter notebooks, including:
+- some sorting algorithms
 
 ## Github guide
 ### Quick setup — if you’ve done this kind of thing before
